@@ -1,4 +1,1 @@
-This is my app
-
-
-app
+console.log('Hello')
